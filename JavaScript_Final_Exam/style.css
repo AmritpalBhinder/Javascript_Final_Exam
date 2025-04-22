@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(119, 14, 60);
+}
+h1{
+    text-align: center;
+    color: rgb(20, 167, 220);
+}
+table{
+    margin: 30px auto;
+    width: 80%;
+    background: #fff;   
+    border: 1px solid black;
+}
+table tr td{
+    border: 1px solid black;
+    height: 30px;
+    text-align: center;
+    background: linear-gradient(45deg, #8e0959, #886674);
+}
